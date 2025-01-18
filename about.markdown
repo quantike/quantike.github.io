@@ -10,6 +10,7 @@ howdy, i'm ike
 - i love to code
 - i (occasionally) blog about how i solve problems, things i think are fascinating, or mundane things i think are explained poorly
 - i am fascinated by databases, distributed systems, and machine learning
+- i use vim btw
 - my background is in physics, nuclear engineering, and high-performance computing
 - my favorite equation is:
 
