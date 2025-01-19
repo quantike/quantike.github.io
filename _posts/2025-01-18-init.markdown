@@ -1,0 +1,16 @@
+---
+layout: post
+title: "init"
+---
+
+# blog init
+
+one of my goals is to write more about tech, and i've chosen to do so here.
+
+expect posts to cover
+- systems programming
+- databases
+- machine learning
+- and anything else i think is cool
+
+cheers
